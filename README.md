@@ -1,46 +1,46 @@
-<h1 align="center">Hey, I'm Saxx 👾</h1>
-<p align="center">🧠 Full-Stack Tinkerer | 🤖 Automation Architect | 💰 Crypto-Native</p>
+<!-- Profile README for github.com/SaxxSaxx/SaxxSaxx -->
+
+<h1 align="center">Hi, I'm Saxx</h1>
+<p align="center"><strong>Python · automation · desktop tools · trading workflows</strong></p>
+
+<p align="center">
+  <a href="https://github.com/SaxxSaxx?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/SaxxSaxx/mulebuy-gui"><img src="https://img.shields.io/badge/Latest%20public-MuleBuy%20GUI-0ea5e9?style=flat-square" alt="MuleBuy GUI" /></a>
+</p>
 
 ---
 
-### 🦾 About Me
+### What I work on
 
-- 🔒 Building **private, licensed automation tools**
-- 🛠️ Focus: crypto trading, stealth botting, API automation
-- 📡 Obsessed with signal over noise — tools that *actually work*
-- 🚧 Projects stay private. What you see here is just the surface.
-
----
-
-### 🧰 Core Stack
-
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-333?style=for-the-badge&logo=selenium)
-![Solana](https://img.shields.io/badge/Solana-333?style=for-the-badge&logo=solana)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333?style=for-the-badge&logo=githubactions)
+- **Desktop & browser automation** — PyQt6 frontends, Selenium flows, solid logging and config UX.
+- **Licensed / private tooling** — most production work (e‑commerce automation, trading infra, internal bots) stays private; public repos are the parts I’m fine open‑sourcing.
+- **Crypto & markets** — bots, signals, and glue code where reliability matters more than hype.
 
 ---
 
-### 🔒 Private Projects
+### Public highlights
 
-All my major work is closed-source. That includes:
-- **Kakobuy Bot** – stealth auto-buyer w/ fingerprint & timezone rotation
-- **Mulebuy Automation** – headless order system with spoofing
-- **Crypto Trading Bots** – custom strategies with licensed codebases
+| Repo | Notes |
+|------|--------|
+| [**mulebuy-gui**](https://github.com/SaxxSaxx/mulebuy-gui) | PyQt6 app + Selenium registration runner (keys via your own `config.json` / env). |
 
-I don't chase stars, I chase results.
+*Pin that repo on your profile* (GitHub → your profile → **Customize pins**) so visitors see it first.
 
 ---
 
-### 📡 Connect with Me
+### Stack I reach for often
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40profilino-2ca5e0?style=for-the-badge&logo=telegram)](https://t.me/profilino)
-[![Discord](https://img.shields.io/badge/Discord-s4xx-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/s4xx)
+Python · Selenium / Chrome · PyQt6 · Docker · Linux · GitHub Actions
+
+---
+
+### Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@profilino-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/profilino)
+[![Discord](https://img.shields.io/badge/Discord-s4xx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/s4xx)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saxxsaxx&style=flat-square&color=blue" alt="Profile Views" />
+  <sub>Profile README · <code>SaxxSaxx/SaxxSaxx</code></sub>
 </p>
