@@ -24,7 +24,6 @@
 |------|--------|
 | [**mulebuy-gui**](https://github.com/SaxxSaxx/mulebuy-gui) | PyQt6 app + Selenium registration runner (keys via your own `config.json` / env). |
 
-*Pin that repo on your profile* (GitHub → your profile → **Customize pins**) so visitors see it first.
 
 ---
 
