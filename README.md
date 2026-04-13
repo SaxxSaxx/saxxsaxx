@@ -1,38 +1,29 @@
-<!-- Profile: github.com/SaxxSaxx/SaxxSaxx -->
+<!-- github.com/SaxxSaxx/SaxxSaxx -->
 
 <h1 align="center">Saxx</h1>
-<p align="center"><strong>Python · desktop apps · automation · SMB web</strong></p>
-<p align="center"><sub>GitHub: <code>SaxxSaxx</code> · Slovakia / remote</sub></p>
-
-<p align="center">
-  <a href="https://github.com/SaxxSaxx/mulebuy-gui"><img src="https://img.shields.io/badge/Featured-mulebuy--gui-0ea5e9?style=flat-square" alt="mulebuy-gui" /></a>
-  <a href="https://github.com/SaxxSaxx/pex"><img src="https://img.shields.io/badge/Featured-pex-64748b?style=flat-square" alt="pex" /></a>
-</p>
-
-I build **focused tools**—PyQt / Electron-style workflows, Selenium glue, and **HTML/CSS template systems** for Slovak SMBs. Older one-off **demo-*** repos are legacy pitch sandboxes; I’m trimming the public list so only real projects surface.
+<p align="center"><strong>Python · desktop tools · automation · web</strong></p>
 
 ---
 
-### Public work (curated)
+### Projects
 
 | | |
 |:---|:---|
-| **[mulebuy-gui](https://github.com/SaxxSaxx/mulebuy-gui)** | PyQt6 app + Selenium runner: config UI, logging, stats. You supply API keys. |
-| **[pex](https://github.com/SaxxSaxx/pex)** | PE analyzer: imports/exports, strings, entropy, security flags—dark UI. |
-| **[YTDLP-GUI](https://github.com/SaxxSaxx/YTDLP-GUI)** | **yt-dlp** GUI: playlists, audio/video, subtitles, history, dark mode. |
-| **[clipboardmanager](https://github.com/SaxxSaxx/clipboardmanager)** | Clipboard history, timestamps, re-copy—offline, privacy-minded. |
-| **[keycommander](https://github.com/SaxxSaxx/keycommander)** | Local typing stats & heatmaps (your machine only; not a “cloud” product). |
-| **[templates-shop](https://github.com/SaxxSaxx/templates-shop)** | Hub for **HTML/CSS** kits: autoservis, salon, stavebná firma. |
-| **[template-autoservis](https://github.com/SaxxSaxx/template-autoservis)** · **[template-kadernictvo](https://github.com/SaxxSaxx/template-kadernictvo)** · **[template-stavebnafirma](https://github.com/SaxxSaxx/template-stavebnafirma)** | Drop-in static templates. |
-| **[premium-salon-theme](https://github.com/SaxxSaxx/premium-salon-theme)** | Next.js-leaning salon theme with booking-oriented layout. |
-| **[S-P-autoservis](https://github.com/SaxxSaxx/S-P-autoservis)** | Example **delivered** autoservis site (portfolio). |
-
+| **[mulebuy-gui](https://github.com/SaxxSaxx/mulebuy-gui)** | PyQt6 + Selenium registration runner with settings UI and logging. |
+| **[pex](https://github.com/SaxxSaxx/pex)** | PE file analyzer — imports, exports, strings, entropy, security flags. |
+| **[YTDLP-GUI](https://github.com/SaxxSaxx/YTDLP-GUI)** | Desktop front-end for yt-dlp (playlists, subs, history, dark mode). |
+| **[clipboardmanager](https://github.com/SaxxSaxx/clipboardmanager)** | Clipboard history with timestamps; offline-first. |
+| **[keycommander](https://github.com/SaxxSaxx/keycommander)** | Local typing stats and heatmaps for your own machine. |
+| **[templates-shop](https://github.com/SaxxSaxx/templates-shop)** | Static site templates for small businesses. |
+| **[template-autoservis](https://github.com/SaxxSaxx/template-autoservis)** · **[template-kadernictvo](https://github.com/SaxxSaxx/template-kadernictvo)** · **[template-stavebnafirma](https://github.com/SaxxSaxx/template-stavebnafirma)** | HTML/CSS kits. |
+| **[premium-salon-theme](https://github.com/SaxxSaxx/premium-salon-theme)** | Salon / booking-oriented Next.js theme. |
+| **[S-P-autoservis](https://github.com/SaxxSaxx/S-P-autoservis)** | Live-style autoservis site (portfolio). |
 
 ---
 
-### AlphaFeed *(private — not on GitHub)*
+### AlphaFeed
 
-**AlphaFeed** isn’t a missing link—it’s intentional. AlphaFeed is a **crypto intelligence / alerts** product (pump.fun–style signals, AI-scored news, Telegram bot, Solana USDC billing, XGBoost scoring on outcomes). Stack in production shape: **FastAPI**, **PostgreSQL**, **Redis**, **aiogram**, **Helius / Solana**. There is **no public repo** and none is planned here; it stays private for commercial and safety reasons. https://alphafeed.site
+Private SaaS: crypto alerts, AI-assisted signals, Telegram delivery, Solana billing — **FastAPI**, **PostgreSQL**, **Redis**, **aiogram**. Source stays private.
 
 ---
 
@@ -40,7 +31,3 @@ I build **focused tools**—PyQt / Electron-style workflows, Selenium glue, and 
 
 [![Telegram](https://img.shields.io/badge/Telegram-@profilino-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/profilino)
 [![Discord](https://img.shields.io/badge/Discord-s4xx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/s4xx)
-
----
-
-<p align="center"><sub>Profile README · <code>SaxxSaxx/SaxxSaxx</code> · updated 2026</sub></p>
