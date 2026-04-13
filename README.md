@@ -27,41 +27,12 @@ I build **focused tools**—PyQt / Electron-style workflows, Selenium glue, and 
 | **[premium-salon-theme](https://github.com/SaxxSaxx/premium-salon-theme)** | Next.js-leaning salon theme with booking-oriented layout. |
 | **[S-P-autoservis](https://github.com/SaxxSaxx/S-P-autoservis)** | Example **delivered** autoservis site (portfolio). |
 
-> **Tip:** On your GitHub profile, use **Customize pins** and pin **mulebuy-gui**, **pex**, and one template or **YTDLP-GUI** so visitors see quality first.
 
 ---
 
 ### AlphaFeed *(private — not on GitHub)*
 
-**AlphaFeed** isn’t a missing link—it’s intentional. AlphaFeed is a **crypto intelligence / alerts** product (pump.fun–style signals, AI-scored news, Telegram bot, Solana USDC billing, XGBoost scoring on outcomes). Stack in production shape: **FastAPI**, **PostgreSQL**, **Redis**, **aiogram**, **Helius / Solana**. There is **no public repo** and none is planned here; it stays private for commercial and safety reasons.
-
----
-
-### Local-only ideas (not uploaded)
-
-- **`andrejpokorny` on GitHub:** There is **no user or org** with that exact handle on GitHub right now—so nothing to “merge” from that account. If you create it later, you can mirror selected repos there.
-- **`~/Documents/projects/fake-gps-app`:** Electron + Python helper—interesting as a portfolio piece **only** if you’re comfortable with how “GPS spoofing” reads ethically; scrub any keys before a public push.
-- **`~/Documents/Obsidian Vault/`** (e.g. `ALPHAFEED*.md`): **Personal notes**—do not bulk-publish; treat as private knowledge base.
-
----
-
-### Cleaning up old `demo-*` repos
-
-Bulk deletion needs an extra token scope. In a terminal (once):
-
-```bash
-gh auth refresh -h github.com -s delete_repo
-```
-
-Then remove the pitch sandboxes (same names you had on the account), for example:
-
-```bash
-gh repo list SaxxSaxx --limit 300 --json name -q '.[].name' \
-  | grep -E '^demo-|^(receptiv-demo|s-p-autoservis-demo)$' \
-  | while read -r r; do gh repo delete "SaxxSaxx/$r" --yes; done
-```
-
-Review the list **before** running if anything should be kept.
+**AlphaFeed** isn’t a missing link—it’s intentional. AlphaFeed is a **crypto intelligence / alerts** product (pump.fun–style signals, AI-scored news, Telegram bot, Solana USDC billing, XGBoost scoring on outcomes). Stack in production shape: **FastAPI**, **PostgreSQL**, **Redis**, **aiogram**, **Helius / Solana**. There is **no public repo** and none is planned here; it stays private for commercial and safety reasons. https://alphafeed.site
 
 ---
 
