@@ -1,33 +1,38 @@
-<!-- github.com/SaxxSaxx/SaxxSaxx -->
-
-<h1 align="center">Saxx</h1>
-<p align="center"><strong>Python · desktop tools · automation · web</strong></p>
-
----
-
-### Projects
-
-| | |
-|:---|:---|
-| **[mulebuy-gui](https://github.com/SaxxSaxx/mulebuy-gui)** | PyQt6 + Selenium registration runner with settings UI and logging. |
-| **[pex](https://github.com/SaxxSaxx/pex)** | PE file analyzer — imports, exports, strings, entropy, security flags. |
-| **[YTDLP-GUI](https://github.com/SaxxSaxx/YTDLP-GUI)** | Desktop front-end for yt-dlp (playlists, subs, history, dark mode). |
-| **[clipboardmanager](https://github.com/SaxxSaxx/clipboardmanager)** | Clipboard history with timestamps; offline-first. |
-| **[keycommander](https://github.com/SaxxSaxx/keycommander)** | Local typing stats and heatmaps for your own machine. |
-| **[templates-shop](https://github.com/SaxxSaxx/templates-shop)** | Static site templates for small businesses. |
-| **[template-autoservis](https://github.com/SaxxSaxx/template-autoservis)** · **[template-kadernictvo](https://github.com/SaxxSaxx/template-kadernictvo)** · **[template-stavebnafirma](https://github.com/SaxxSaxx/template-stavebnafirma)** | HTML/CSS kits. |
-| **[premium-salon-theme](https://github.com/SaxxSaxx/premium-salon-theme)** | Salon / booking-oriented Next.js theme. |
-| **[S-P-autoservis](https://github.com/SaxxSaxx/S-P-autoservis)** | Live-style autoservis site (portfolio). |
+<h1 align="center">saxx / skeet</h1>
+<p align="center"><em>Independent builder, working mostly after dark.</em></p>
+<p align="center">Bratislava · Europe/Bratislava</p>
 
 ---
 
-### AlphaFeed
+### Log of shipped things · 2024 — present
 
-Private SaaS: crypto alerts, AI-assisted signals, Telegram delivery, Solana billing — **FastAPI**, **PostgreSQL**, **Redis**, **aiogram**. Source stays private.
+| № | Name | Status | Notes |
+|:-:|------|:------:|-------|
+| I · 2025 | **[AlphaFeed](https://alphafeed.site)** | ● Live | AI-curated crypto signals. Telegram-native, zero noise. Auto-trading bot runs in shadow mode behind it. |
+| II · 2026 | **SharpFeed** | ◐ Beta | Paywalled alerts when Polymarket sharp wallets — the ones that already know the answer — take a new position. |
+| III · 2025 | **[Receptiv](https://receptiv.dev)** | ○ Open for work | Custom websites for small businesses. Built carefully, priced fairly, delivered fast. |
+
+### Also observed · utilities
+
+| № | Name | Notes |
+|:-:|------|-------|
+| IV · 2024 | Brawl Vision | Computer-vision detection for a game I play too much. OpenCV, Python. |
+| V · 2024 | TikTok Repost Remover | Chrome extension that wipes every repost off your profile. Manifest v3, ~100 lines. |
+
+### Lately
+
+Game cheating and reverse-engineering, cybersecurity, building small sharp things at night.
 
 ---
 
-### Contact
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@profilino-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/profilino)
-[![Discord](https://img.shields.io/badge/Discord-s4xx-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/s4xx)
+<a href="https://x.com/saxx_gs">X / @saxx_gs</a> · <a href="https://x.com/gejmsens">X / @gejmsens</a> · <a href="https://t.me/profilino">Telegram</a> · <a href="https://youtube.com/@gejmsens">YouTube</a>
+
+Discord: <code>s4xx</code> / <code>gejmsens</code>
+
+<br>
+
+<sub><em>— end of log.</em> &nbsp; ♄</sub>
+
+</div>
