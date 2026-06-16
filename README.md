@@ -8,16 +8,18 @@
 
 | № | Name | Status | Notes |
 |:-:|------|:------:|-------|
-| I · 2025 | **[AlphaFeed](https://alphafeed.site)** | ● Live | AI-curated crypto signals. Telegram-native, zero noise. Auto-trading bot runs in shadow mode behind it. |
-| II · 2026 | **SharpFeed** | ◐ Beta | Paywalled alerts when Polymarket sharp wallets — the ones that already know the answer — take a new position. |
-| III · 2025 | **[Receptiv](https://receptiv.dev)** | ○ Open for work | Custom websites for small businesses. Built carefully, priced fairly, delivered fast. |
+| I · 2025 | **[AlphaFeed](https://alphafeed.site)** | ● Live | AI-curated crypto signals. Telegram-native, zero noise. |
+| II · 2026 | **[SnapPeek](https://github.com/SaxxSaxx/snappeek)** | ● Live | Telegram alert when someone half-swipes your Snapchat — reverse-engineered the web client's presence socket. |
+| III · 2026 | **[Nyxcord](https://github.com/SaxxSaxx/Nyxcord)** | ● Live | A Discord client mod (Equicord fork) — curated plugins, persona sync. |
+| IV · 2026 | **SharpFeed** | ◐ Beta | Paywalled alerts when Polymarket sharp wallets take a new position. |
 
 ### Also observed · utilities
 
 | № | Name | Notes |
 |:-:|------|-------|
-| IV · 2024 | Brawl Vision | Computer-vision detection for a game I play too much. OpenCV, Python. |
-| V · 2024 | TikTok Repost Remover | Chrome extension that wipes every repost off your profile. Manifest v3, ~100 lines. |
+| V · 2024 | **[pex](https://github.com/SaxxSaxx/pex)** | PE file analyzer — imports, exports, strings, entropy, security flags. |
+| VI · 2024 | Brawl Vision | Computer-vision detection for a game I play too much. OpenCV, Python. |
+| VII · 2024 | TikTok Repost Remover | Chrome extension that wipes every repost off your profile. Manifest v3. |
 
 ### Lately
 
