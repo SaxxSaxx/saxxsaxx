@@ -1,0 +1,26 @@
+name: sync
+
+on:
+  schedule:
+    - cron: '40 3 * * *'   # 03:40 UTC, just after the station transmits
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: pull latest transmission
+        run: curl -fsSL https://raw.githubusercontent.com/SaxxSaxx/transmissions/main/feed.log -o feed.snapshot
+      - run: python update_readme.py
+      - name: commit
+        run: |
+          git config user.name "⟁"
+          git config user.email "79324095+SaxxSaxx@users.noreply.github.com"
+          rm -f feed.snapshot
+          git add README.md
+          git commit -m "$(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          git push
